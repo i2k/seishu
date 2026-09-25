@@ -4,6 +4,7 @@
 東京大学 文学部・人文社会系研究科 文化資源学研究室「文化資源としての書物」履修生が STUDIO（studio.design）で制作したサイトを、
 STUDIO のプロジェクトがなくなっても閲覧できるよう、HTML・CSS・画像・フォント一式として保存しています。
 
+- 公開URL: https://i2k.github.io/seishu/
 - 取得元: STUDIO プレビュー（`preview.studio.site/live/NxqgGloVq1/`）
 - 取得日: 2026-09-25
 - ページ: トップ、震災復興（2〜9）、図書疎開（B1〜B4）、英語版（E1〜E4）
